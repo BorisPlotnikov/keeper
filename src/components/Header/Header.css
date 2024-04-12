@@ -1,0 +1,30 @@
+header {
+    background: var(--secondary-accent-color);
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 var(--primary-shadow-color);
+  }
+  
+  header h1 {
+    font-family: var(--secondary-font-family);
+  }
+
+  .logoPart1 {
+    color: var(--secondary-accent-color);
+    background: var(--primary-detail-color);
+    padding-left: .3em;
+    padding-right: .3em;
+    margin-right: 0.05em;
+  }
+  
+  .logoContainer:hover .logoPart1 {
+    background: var(--secondary-detail-color);
+  }
+
+  .logoPart2 {
+    color: var(--primary-detail-color);
+  }
+
+  .logoContainer:hover .logoPart2 {
+    color: var(--secondary-detail-color);
+  }

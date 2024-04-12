@@ -1,0 +1,44 @@
+.note {
+    color: var(--primary-text-color);
+    background: var(--primary-background-color);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px var(--primary-background-color);
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+  }
+  .note h1 {
+    font-family: inherit;
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  .note p {
+    font-family: inherit;
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .note button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    border: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  button.note-button {
+    color: var(--secondary-detail-color);
+  }
+  button.note-button:hover {
+    background: var(--primary-detail-color);
+    color: var(--secondary-accent-color);
+  }
