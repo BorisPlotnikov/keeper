@@ -1,23 +1,27 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# 👉 Ignore dependencies
+node_modules/
+.pnp.*
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+# 👉 Build output (e.g., from bundlers like Vite or Webpack)
+dist/
+build/
 
-# testing
-/coverage
+# 👉 VS Code settings
+.vscode/
 
-# production
-/build
-
-# misc
-.DS_Store
+# 👉 Environment variables (optional, remove if unused)
+.env
 .env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
-npm-debug.log*
+# 👉 Logs
 yarn-debug.log*
 yarn-error.log*
+npm-debug.log*
+
+# 👉 OS-specific files
+.DS_Store
+Thumbs.db
