@@ -26,6 +26,6 @@ A simple, fast, and responsive **notes manager built with React** and styled usi
 ## 📸 Preview
 
 ```markdown
-![Landing](./public/assets/screenshots/landing.png)
-![Desktop](./public/assets/screenshots/desktop.png)
-![Mobile](./public/assets/screenshots/mobile.png)
+![Landing](public/assets/screenshots/landing.png)
+![Desktop](public/assets/screenshots/desktop.png)
+![Mobile](public/assets/screenshots/mobile.png)
