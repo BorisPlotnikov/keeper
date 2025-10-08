@@ -71,6 +71,7 @@ The app will open at http://localhost:3000/
 
 ## 🧠 Project Structure
 
+```Markdown
 keeper/
 ├── public/
 │   └── index.html
@@ -89,6 +90,7 @@ keeper/
 ├── README.md
 ├── package.json
 └── yarn.lock
+```Markdown
 
 
 ---
