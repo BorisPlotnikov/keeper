@@ -94,7 +94,7 @@ keeper/
 
 ---
 
-# 🚧 Limitations
+## 🚧 Limitations
 
 - ❌ Notes are not persisted between sessions (no `localStorage` or backend)
 - ❌ No tagging, search, or note editing
@@ -102,7 +102,7 @@ keeper/
 
 ---
 
-# 💡 Future Improvements
+## 💡 Future Improvements
 
 - 🏷️ Add tags or categories
 - ✏️ Allow editing of notes
@@ -110,10 +110,10 @@ keeper/
 
 ---
 
-# 📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-# 🙋‍♂️ Author
+## 🙋‍♂️ Author
 Made with ❤️ by @borisplotnikov
