@@ -92,29 +92,28 @@ keeper/
 └── yarn.lock
 ```
 
-
 ---
 
-## 🚧 Limitations
+# 🚧 Limitations
 
 - ❌ Notes are not persisted between sessions (no `localStorage` or backend)
 - ❌ No tagging, search, or note editing
 - ❌ No mobile-first optimizations (yet)
 
+---
+
+# 💡 Future Improvements
+
+- 🏷️ Add tags or categories
+- ✏️ Allow editing of notes
+- 📱 Improve mobile experience
 
 ---
 
-## 💡 Future Improvements
-        🏷️ Add tags or categories
-        ✏️ Allow editing of notes
-        📱 Improve mobile experience
-
----
-
-## 📄 License
+# 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-## 🙋‍♂️ Author
+# 🙋‍♂️ Author
 Made with ❤️ by @borisplotnikov
