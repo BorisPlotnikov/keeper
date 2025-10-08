@@ -90,15 +90,17 @@ keeper/
 ├── README.md
 ├── package.json
 └── yarn.lock
-```Markdown
+```
 
 
 ---
 
 ## 🚧 Limitations
-❌ Notes are not persisted between sessions (no localStorage or backend)
-❌ No tagging, search, or note editing
-❌ No mobile-first optimizations (yet)
+
+- ❌ Notes are not persisted between sessions (no `localStorage` or backend)
+- ❌ No tagging, search, or note editing
+- ❌ No mobile-first optimizations (yet)
+
 
 ---
 
