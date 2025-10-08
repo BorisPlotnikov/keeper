@@ -63,9 +63,9 @@ yarn install
 
 # Start the development server
 yarn start
+```
 
 The app will open at http://localhost:3000/
-```
 
 ---
 
@@ -89,6 +89,7 @@ keeper/
 ├── README.md
 ├── package.json
 └── yarn.lock
+
 
 ---
 
