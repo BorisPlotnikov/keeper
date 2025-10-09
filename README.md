@@ -15,7 +15,7 @@ A simple, fast, and responsive **notes manager built with React** and styled usi
 
 ## 🚀 Live Demo
 
-👉 [Open the app](https://borisplotnikov.github.io/keeper/)
+👉 [Open the app](https://borisplotnikov.github.io/in-memory-notes-manager/)
 
 ---
 
