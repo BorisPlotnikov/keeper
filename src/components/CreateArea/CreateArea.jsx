@@ -96,7 +96,7 @@ function CreateArea({ onAdd }) {
             >
                 <input
                     onChange={handleInputs}
-                    placeholder={formExpanded ? "Your title..." : "Start your new note here..."}
+                    placeholder={formExpanded ? "Title" : "New note"}
                     aria-label={formExpanded ? "note title input field" : "new note input field"}
                     name='title'
                     value={note.title}
@@ -108,7 +108,7 @@ function CreateArea({ onAdd }) {
 
                 {formExpanded && <textarea
                     onChange={handleInputs}
-                    placeholder="Your content..."
+                    placeholder="Content"
                     aria-label="note content input field"
                     name='content'
                     value={note.content}
