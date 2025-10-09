@@ -55,7 +55,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/borisplotnikov/keeper.git
+git clone https://github.com/borisplotnikov/in-memory-notes-manager.git
 cd keeper
 
 # Install dependencies

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://BorisPlotnikov.github.io/in-memory-notes-manager",
+  "homepage": "https://borisplotnikov.github.io/in-memory-notes-manager/",
   "name": "keeper",
   "version": "0.1.0",
   "private": true,
@@ -15,9 +15,9 @@
     "uuid": "^9.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
