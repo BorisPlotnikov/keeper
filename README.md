@@ -1,4 +1,4 @@
-# 🗒️ Keeper – An In-memory React notes manaager
+# 🗒️ In-memory React notes manager
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/MUI-5.15.11-007FFF?logo=mui)](https://mui.com/)
@@ -55,8 +55,8 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/borisplotnikov/in-memory-notes-manager.git
-cd keeper
+git clone https://github.com/BorisPlotnikov/in-memory-notes-manager.git
+cd in-memory-notes-manager
 
 # Install dependencies
 yarn install
@@ -71,27 +71,29 @@ The app will open at http://localhost:3000/
 
 ## 🧠 Project Structure
 
-```Markdown
-keeper/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Note.jsx
-│   │   ├── NoteList.jsx
-│   │   └── ...
-│   ├── App.jsx
-│   ├── index.js
-│   └── styles.css
-├── assets/
-│   └── screenshots/
-│       └── screenshot.png
-├── .gitignore
-├── README.md
+```plaintext
+in-memory-notes-manager/
+├── assets
+├── LICENSE
 ├── package.json
+├── public
+│   ├── assets
+│   │   └── favicon_io
+│   ├── index.html
+│   ├── manifest.json
+│   └── robots.txt
+├── README.md
+├── src
+│   ├── components
+│   │   ├── App
+│   │   ├── CreateArea
+│   │   ├── Footer
+│   │   ├── Header
+│   │   └── Note
+│   ├── index.css
+│   └── index.js
 └── yarn.lock
 ```
-
 ---
 
 ## 🚧 Limitations
