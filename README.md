@@ -78,10 +78,7 @@ in-memory-notes-manager/
 ├── package.json
 ├── public
 │   ├── assets
-│   │   └── favicon_io
 │   ├── index.html
-│   ├── manifest.json
-│   └── robots.txt
 ├── README.md
 ├── src
 │   ├── components
@@ -118,4 +115,4 @@ This project is licensed under the MIT License.
 ---
 
 ## 🙋‍♂️ Author
-Made with ❤️ by @borisplotnikov
+Boris Plotnikov
