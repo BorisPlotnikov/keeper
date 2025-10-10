@@ -1,4 +1,4 @@
-# 🗒️ In-memory React notes manager
+# 🗒️ In-memory notes manager
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/MUI-5.15.11-007FFF?logo=mui)](https://mui.com/)
